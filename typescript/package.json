@@ -1,0 +1,9 @@
+{
+  "name": "array-horror-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "start":  "bun run src/main.ts",
+    "start2": "bun run src/part2.ts",
+    "start3": "bun run src/part3.ts"
+  }
+}

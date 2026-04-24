@@ -1,0 +1,24 @@
+# Rust
+debug/
+target/
+Cargo.lock
+
+# C build artifacts
+c/main
+c/main-asan
+c/part2
+c/part2-asan
+c/part3
+c/bonus
+
+# Node / Bun
+node_modules/
+typescript/node_modules/
+
+# Nix
+.direnv/
+result
+result-*
+
+# Editor
+.DS_Store

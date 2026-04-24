@@ -1,0 +1,2 @@
+#/bin/env sh
+cargo run --manifest-path rust/Cargo.toml --bin launcher

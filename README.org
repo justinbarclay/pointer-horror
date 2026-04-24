@@ -1,0 +1,185 @@
+#+begin_example
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣷⣾⣿⣷⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⣀⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠟⠻⣿⣿⣆⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⣼⣿⣿⠟⠻⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⣿⣿⡿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⣿⣿⣿⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⢀⣴⣿⣿⠃⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠘⣿⣿⣆⠀⠀⠀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⣶⣿⣿⣿⣿⣿⣷⣄⢿⣿⠟⠁⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠈⢻⣿⣷⣴⣾⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀
+⠀⠀⢰⡿⠋⠁⠀⢀⣨⣝⣿⣿⣷⡁⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⢩⣾⣿⣿⣫⣄⠀⠀⠈⠙⣿⡆⠀⠀
+⠀⠀⢾⠃⠀⢀⣴⣿⣿⡿⠚⣿⣿⣷⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿⠱⢿⣿⣿⣦⡀⠀⠸⡇⠀⠀
+⠀⠀⠀⢀⣴⣿⣿⡿⠋⠀⠀⣿⣿⣿⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⣿⣿⣿⠀⠀⠙⢿⣿⣿⣦⡀⠀⠀⠀
+⠀⠀⣰⣿⣿⡿⠋⠀⠀⠀⠀⣿⣿⡿⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⣿⣿⣿⠀⠀⠀⠀⠙⢿⣿⣿⣄⠀⠀
+⠀⣼⣿⣿⠏⠀⠀⠀⠀⠀⣰⣿⣿⠇⣠⣾⡇⠀⠀⣮⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⣴⠀⠀⢸⣷⡄⢹⣿⣿⡄⠀⠀⠀⠀⠀⠻⣿⣿⣦⠀
+⣸⣿⣿⠏⠀⠀⠀⠀⠀⢠⣿⣿⡟⢰⣿⣿⣿⣄⣀⣹⣿⣞⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣵⣿⣇⣀⣤⣿⣿⣿⡄⢻⣿⣿⡄⠀⠀⠀⠀⠀⢹⣿⣿⡆
+⣿⣿⣿⠀⠀⠀⠀⠀⣰⣿⣿⠟⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢏⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⢻⣿⣿⣆⠀⠀⠀⠀⠀⣿⣿⣿
+⣿⣿⣿⡀⠀⠀⢀⣼⣿⣿⠏⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠁⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠉⠀⣹⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠻⣿⣿⣧⡀⠀⠀⢠⣿⣿⣿
+⢹⣿⣿⣧⠀⣠⣾⣿⡿⠃⠀⠀⠀⠹⣿⣿⠟⠛⠛⣿⣿⣿⣦⣀⠀⠀⠻⣿⣿⣿⣿⣿⣿⠏⠀⠀⣀⣼⣿⣿⣿⠛⠛⠻⣿⣿⠃⠀⠀⠀⠙⢿⣿⣷⡄⢀⣾⣿⣿⠇
+⠀⠻⣿⣿⣷⣽⣻⠟⠁⠀⠀⠀⠀⠀⠈⠁⠀⢀⣠⣿⣿⣿⣿⣿⣿⣶⣤⡙⣿⡿⢿⣿⢃⣤⣶⣿⣿⣿⣿⣿⣷⣄⡀⠀⠈⠁⠀⠀⠀⠀⠀⠈⠿⣟⣿⣿⣿⣿⠟⠀
+⠀⠀⠈⣻⢿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡎⠁⠈⣱⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⡿⣛⠁⠀⠀
+⠀⠀⢸⣿⣷⡏⠙⠛⠿⠿⢿⣿⣿⣿⣿⣿⠿⠿⠿⠿⢿⣿⠿⣿⣿⣿⣿⣿⣿⠀⢀⣿⣿⣿⣿⣿⣿⠿⣿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⡿⠿⠿⠛⠋⢵⣿⣿⡆⠀⠀
+⠀⠀⣿⣿⣿⠃⠀⠀⢀⣀⣀⣀⡀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣷⡝⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⢫⣾⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⣀⣀⣀⣀⡀⠀⠀⠸⣿⣿⣷⠀⠀
+⠀⠀⣿⣿⣿⠀⠀⢰⣿⡿⠿⣿⣿⣷⢄⣴⣿⣿⣿⣿⠟⠉⣵⣶⣶⡸⣿⣿⣿⡇⢸⣿⣿⣿⢃⣶⣶⡎⠙⠻⣿⣿⣿⣷⣤⡠⣾⣿⡿⠿⢿⣿⡄⠀⠀⣿⣿⣿⠀⠀
+⠀⠀⢿⣿⣿⡀⠀⠸⡿⠀⠀⠀⢙⣵⣿⣿⣿⠟⠋⠀⠀⠀⣾⣿⣿⡇⣿⣿⣿⡇⢸⣿⣿⣿⢸⣿⣿⣧⠀⠀⠀⠙⠿⣿⣿⣿⣮⡋⠀⠀⠀⣿⠇⠀⢠⣿⣿⡟⠀⠀
+⠀⠀⠸⣿⣿⣧⡀⠀⠀⠀⢀⣴⣿⣿⡿⣿⡅⠀⠀⠀⢀⣼⣿⣿⣿⠇⣿⣿⣿⠇⢸⣿⣿⣿⢸⣿⣿⣿⣆⠀⠀⠀⠀⣨⣻⣿⣿⣿⣦⠀⠀⠀⠀⢀⣾⣿⣿⠃⠀⠀
+⠀⠀⠀⠹⣿⣿⣷⣤⡀⢠⣿⣿⣿⠟⢿⣿⣿⠀⣀⣴⣿⣿⣿⠟⠁⠀⣿⣿⣿⠀⠈⣿⣿⣿⠀⠈⠻⣿⣿⣷⣦⣀⠀⣿⣿⡎⠻⣿⣿⣷⡄⢀⣴⣿⣿⣿⠃⠀⠀⠀
+⠀⠀⠀⠀⠈⠻⣿⣿⣿⣷⣾⣿⣥⣤⢸⣿⣿⣸⣿⣿⡿⠋⠁⠀⠀⢀⣿⣿⡟⠀⠀⣿⣿⣿⠀⠀⠀⠈⠻⢿⣿⣿⣷⣿⣿⣧⣤⣭⣿⣷⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⢛⣻⣿⣿⣿⣿⢼⣿⣿⡟⠛⠉⠀⢀⣀⣤⣄⣸⣿⣿⠇⠀⠀⢸⣿⣿⡇⣤⣤⣀⡀⠀⠉⠛⢻⣿⣿⣿⣿⣿⣿⣿⣟⡛⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣷⡀⠀⠸⣿⣿⡇⣀⣴⣾⣿⣿⣿⣏⣿⣿⡿⠀⠀⠀⠀⣿⣿⣿⢻⣿⣿⣿⣷⣦⡀⢸⣿⣿⠁⠀⢀⣾⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣦⣤⣿⣿⣾⣿⣿⠿⠋⠁⢀⣾⣿⣿⢳⣷⠀⢀⣾⡼⣿⣿⣧⡀⠈⠙⠿⣿⣿⣷⣯⣯⣤⣴⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣟⣯⣅⣀⣠⣴⣿⣿⣿⠃⢻⣿⠆⢸⣿⡏⠹⣿⣿⣿⣦⣄⣀⣨⣽⣻⣿⣿⣿⣿⣿⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⠟⠁⠀⣼⡿⠀⠈⣿⣇⠀⠈⠻⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠉⠉⠀⠀⣠⣾⠿⠁⠀⠀⠘⠿⣷⡄⠀⠀⠉⠉⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+        Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+              In his house at R'lyeh, dead Cthulhu waits.
+                  And so does your segmentation fault.
+#+end_example
+
+* pointer-horror
+
+Three interactive CLIs. One in C, one in Rust, one in TypeScript. Each
+walks through the same set of memory problems. The experience is
+deliberately different in each language — and that difference is the
+lesson.
+
+** Why every programmer needs to understand this
+
+Every piece of memory your program uses has an address. When you call a
+function, the language has to decide: does the function get the *value*,
+or does it get the *address* so it can reach the original?
+
+That decision — made once, at language-design time — propagates into
+everything. Every function signature, every data structure, every subtle
+bug you've spent three hours debugging at 11pm was downstream of it.
+
+C makes you deal with it directly. You write the asterisks. You manage
+the addresses. When something goes wrong, the machine tells you nothing
+useful and your program continues running with corrupted memory,
+cheerfully doing whatever it wants.
+
+Every language since C has been, in some part, an opinion about how much
+of this machinery to expose. Python hides it completely — until you hit a
+mutable default argument and realise the function has been sharing state
+with every caller since the process started. JavaScript hides it — until
+you pass an object into a function, mutate a field, and find the caller's
+copy has changed. Java hides it with two different rules depending on
+whether your type is primitive or not, and you are expected to just
+remember which is which.
+
+Rust does something different: it keeps the machinery visible but lets
+the compiler enforce the rules. You still think about ownership and
+addresses. You just can't get them wrong.
+
+The point isn't that C is bad and modern languages are good. The point is
+that *the problem doesn't go away* — the language just decides how much
+of it lands on you. Understanding what's underneath makes you better in
+any language, because the bugs are still there. They're just wearing
+different clothes.
+
+These demos show you the raw machinery, then show what each language does
+about it. Run them in order. Predict what will happen before the reveal.
+Be wrong at least once.
+
+-----
+
+** Prerequisites
+
+You need one of the following:
+
+- [[https://github.com/features/codespaces][GitHub Codespaces]] — zero-install, runs in the browser or VS Code
+- [[https://nixos.org/download/][Nix]] (recommended for local) — provides everything automatically
+- Or install manually: =gcc=, =make=, =rustup= (stable toolchain), =bun=
+
+*** GitHub Codespaces
+
+Click *Code → Codespaces → Create codespace* on the repository page.
+The container installs all tools and pre-builds the launcher automatically.
+Open a terminal and run:
+
+#+begin_src sh
+./launcher
+#+end_src
+
+*** With Nix (recommended)
+
+#+begin_src sh
+# Option A — automatic (requires direnv + nix-direnv):
+direnv allow          # entering the directory activates the shell
+
+# Option B — manual:
+nix develop           # drops you into a shell with all tools available
+#+end_src
+
+The flake provides: =gcc=, =make=, =cargo=, =rustc=, =rustfmt=, =clippy=, =bun=.
+Nothing is installed globally; everything is sandboxed to the project shell.
+
+*** Without Nix
+
+| Tool     | Purpose               | Install                              |
+|----------+-----------------------+--------------------------------------|
+| =gcc=    | C compiler            | =apt install gcc= / =brew install gcc= |
+| =make=   | C build               | =apt install make= / Xcode CLT       |
+| =rustup= | Rust toolchain        | [[https://rustup.rs][rustup.rs]]                            |
+| =bun=    | TypeScript runtime    | [[https://bun.sh][bun.sh]]                               |
+
+** Launcher
+
+The fastest way to explore the project. A single-keypress menu builds and runs any demo, then returns you to the menu when you're done.
+
+#+begin_src sh
+./launcher
+#+end_src
+
+Pick a number, the demo compiles (with a spinner for slow builds), and the terminal is handed over completely — stdin, stdout, stderr all pass through. Quit the demo normally and you're back at the menu.
+
+** C  ~c/~
+
+#+begin_src sh
+cd c
+
+make run          # build + run part 1 (array horrors)
+make run2         # build + run part 2 (pointer lifetime horrors)
+make run3         # build + run part 3 (performance & verbosity) — compiled -O2
+
+# With AddressSanitizer + UBSan (catches memory errors at runtime):
+make run-asan
+make run2-asan
+
+make clean        # remove compiled binaries
+#+end_src
+
+** Rust  ~rust/~
+
+#+begin_src sh
+cd rust
+
+cargo run                          # part 1 — array safety
+cargo run --bin part2              # part 2 — ownership / lifetimes / Option<T>
+cargo run --release --bin part3    # part 3 — performance benchmark (use --release for accurate numbers)
+
+# Won't-compile examples — run each to see real compiler output:
+rustc wont-compile/dangling.rs
+rustc wont-compile/use_after_free.rs
+rustc wont-compile/double_free.rs
+#+end_src
+
+** TypeScript  ~typescript/~
+
+#+begin_src sh
+cd typescript
+
+bun install        # install dependencies (first time only)
+bun run start      # part 1 — array safety
+bun run start2     # part 2 — GC / null safety
+bun run start3     # part 3 — performance benchmark
+#+end_src
+
+** Quick reference
+
+| Part | Topic | C | Rust | TypeScript |
+|------+-------+---+------+------------|
+| *1* — Array access horrors | sizeof decay, OOB, length | =make run= | =cargo run= | =bun run start= |
+| *2* — Pointer lifetime horrors | dangling, UAF, double-free | =make run2= | =cargo run --bin part2= | =bun run start2= |
+| *3* — Performance & verbosity | shared ownership, alloc latency | =make run3= | =cargo run --release --bin part3= | =bun run start3= |
+| Sanitizers | ASan + UBSan | =make run-asan= / =run2-asan= | — | — |
+| Won't compile | Rust lifetime errors | — | =rustc wont-compile/*.rs= | — |

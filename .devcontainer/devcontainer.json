@@ -1,0 +1,32 @@
+{
+  "name": "pointer-horror",
+
+  // Ubuntu 22.04 — includes gcc, make, and build-essential out of the box.
+  "image": "mcr.microsoft.com/devcontainers/base:jammy",
+
+  "features": {
+    // Installs rustup + stable toolchain (cargo, rustc, rustfmt, clippy).
+    "ghcr.io/devcontainers/features/rust:1": {
+      "version": "stable",
+      "profile": "default"
+    }
+  },
+
+  // onCreateCommand runs once (no TTY needed — pure setup).
+  "onCreateCommand": "bash .devcontainer/setup.sh",
+
+  // postAttachCommand runs in the user's terminal on every attach.
+  // Launches the interactive menu immediately when the codespace opens.
+  "postAttachCommand": "./launcher",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rust-lang.rust-analyzer"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}
